@@ -1,0 +1,14 @@
+3
+0 4
+0* 00 Permit
+01 1* Permit
+0* 11 Drop
+0* * Drop
+1 4
+1* 11 Drop
+11 * Permit
+10 0* Permit
+1* * Drop
+2 2
+1* * Fwd
+0* * Fwd
